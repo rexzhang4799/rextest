@@ -24,7 +24,7 @@
 
 git 常用操作
 
-配置hh
+配置hh迭代
 >* git config --global user.name "rexzhang4799"
 >* git config --global user.email "57111563@.qq.com"
 >* git config --global http.proxy http://proxy.tencent.com:8080
