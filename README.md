@@ -27,6 +27,7 @@ git 常用操作
 配置
 >* git config --global user.name "rexzhang4799"
 >* git config --global user.email "57111563@.qq.com"
+>* git config --global http.proxy http://proxy.tencent.com:8080
 >* git remote add origin https://github.com/rexzhang4799/git_test.git
 
 
