@@ -26,8 +26,8 @@ git 常用操作
 
 
 配置
->* git config --global user.name "username"
->* git config --global user.email "email@.com"
+>* git config --global user.name "username" //局部去掉--global
+>* git config --global user.email "email@.com"//局部去掉--global
 >* git remote add origin url
 
 
